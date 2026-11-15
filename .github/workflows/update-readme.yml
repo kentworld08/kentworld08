@@ -13,10 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate Activity Feed
-        uses: Readme-Workflows/recent-activity@v2.4.0
+      - uses: Readme-Workflows/recent-activity@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: kentworld08
-          MAX_ITEMS: 5
+          GH_USERNAME: kentworld08
