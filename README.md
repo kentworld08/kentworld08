@@ -15,8 +15,8 @@
 - 📫 **Reach me:** `kent93226@gmail.com`
 
 ### ⚡ What I'm Currently Working On
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
