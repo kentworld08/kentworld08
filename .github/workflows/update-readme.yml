@@ -12,6 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_max_posts: 5
+          feed_list: "https://github.com/kent_world08.atom"
