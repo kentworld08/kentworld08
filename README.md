@@ -43,13 +43,3 @@
     <img src="https://img.icons8.com/fluency/48/domain.png" height="40" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <a href="https://gitshine.com/stats/kentworld08">
-    <img src="https://gitshine.com/card/kentworld08?theme=dark" alt="GitHub stats" />
-  </a>
-</div>
