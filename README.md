@@ -16,6 +16,7 @@
 
 ### ⚡ What I'm Currently Working On
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui)
 <!--RECENT_ACTIVITY:end-->
 ---
 
