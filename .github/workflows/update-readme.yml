@@ -12,9 +12,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: kentworld08
           MAX_LINES: 5
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --cached --quiet || git commit -m "chore: update recent github activity"
+          git push
