@@ -15,9 +15,8 @@
 - 📫 **Reach me:** `kent93226@gmail.com`
 
 ### ⚡ What I'm Currently Working On
-<!--START_SECTION:recent-activity-->
-<!--END_SECTION:recent-activity-->
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 ---
 
 ### 🛠️ Core Tech Stack
