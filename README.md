@@ -11,8 +11,7 @@
 ### About Me
 **Full-Stack Software Engineer | JavaScript, Next.js, TypeScript & Node.js**
 
-- 🤝 **Open to:** Full-stack engineering roles & collaborative software projects
-- 📫 **Reach me:** `kent93226@gmail.com`
+- 🤝 **Open to:** Collaborative software projects
 
 ### ⚡ What I'm Currently Working On
 <!--RECENT_ACTIVITY:start-->
@@ -26,16 +25,7 @@
 
 ---
 
-### Socials
-
-<p align="left">
-  <a href="https://linkedin.com/in/jonathan-adebo-92b84a36a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://instagram.com/kent_world08" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://hello-jonathan-livid.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="40" />
-  </a>
-</p>
+### 🌐 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jonathan-adebo-92b84a36a)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kent_world08)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jonathanadebo088@gmail.com)
