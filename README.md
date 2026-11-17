@@ -15,11 +15,8 @@
 
 ### ⚡ What I'm Currently Working On
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [kentworld08/kentworld08](https://github.com/kentworld08/kentworld08)
-2. ⬆️ Pushed undefined commit(s) to [kentworld08/kentworld08](https://github.com/kentworld08/kentworld08)
-3. ⬆️ Pushed undefined commit(s) to [kentworld08/kentworld08](https://github.com/kentworld08/kentworld08)
-4. ⬆️ Pushed undefined commit(s) to [kentworld08/kentworld08](https://github.com/kentworld08/kentworld08)
-5. ⭐ Starred [kentworld08/LetBuilt](https://github.com/kentworld08/LetBuilt)
+
+1. ⭐ Starred [kentworld08/LetBuilt](https://github.com/kentworld08/LetBuilt)
 <!--RECENT_ACTIVITY:end-->
 ---
 
